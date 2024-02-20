@@ -10,13 +10,13 @@ Impressão formatada de sting.
 System.out.println("O "+nome+" docmiciliado no endereço "+endereco+" e telefone "+telefone+" não possui pendências 1");
 ```
 
-# Operadores
+# br.com.introducao.operadores.Operadores
 * Soma
 * Subtração
 * Multiplicação
 * Resto
 
-# OperadoresComparacao
+# br.com.introducao.operadores.OperadoresComparacao
 * >
 * >=
 * <
@@ -24,11 +24,11 @@ System.out.println("O "+nome+" docmiciliado no endereço "+endereco+" e telefone
 * ==
 * =!
 
-# OperadoresLogicos
+# br.com.introducao.operadores.OperadoresLogicos
 * &&
 * ||
 
-# OperadoresAtribuicao
+# br.com.introducao.operadores.OperadoresAtribuicao
 * +=
 * -=
 * *=
@@ -40,11 +40,32 @@ System.out.println("O "+nome+" docmiciliado no endereço "+endereco+" e telefone
 * elif
 * else
 
-# ControleFluxoTernario
+# br.com.introducao.controlefluxo.ControleFluxoTernario
 * Substitui o if
 * Menos código
 * Pode atrapalhar a compreensão
 
-# TabelaVerdade
+# br.com.introducao.controlefluxo.TabelaVerdade
 * and - &&
 * or - || 
+
+# br.com.introducao.exercicio.ExercicioControleFluxo1
+* if
+* else if
+
+# br.com.introducao.controlefluxo.ControleFluxoSwitch
+
+# br.com.introducao.controlefluxo.ControleFluxoWhileFor
+
+# br.com.introducao.exercicio.ExercicioControleFluxo2
+
+# ExecicioControleFluxo3
+
+
+# br.com.introducao.array.Array
+
+# br.com.introducao.array.ArrayInteiro
+For It
+Mais simples para iteração do array.
+
+# br.com.introducao.array.ArrayString
